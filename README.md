@@ -1,1 +1,1 @@
-# cenarios_de_teste_loja_renner
+# O objetivo desse projeto e treinar a escrita de teste para e-Commerce
