@@ -1,0 +1,1 @@
+# cenarios_de_teste_loja_renner
