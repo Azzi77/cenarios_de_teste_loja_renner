@@ -1,0 +1,23 @@
+{
+  "name": "cenarios_de_teste_loja_renner",
+  "version": "1.0.0",
+  "description": "npm",
+  "main": "index.js",
+  "scripts": {
+    "cypress:open": "cypress open"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Azzi77/cenarios_de_teste_loja_renner.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Azzi77/cenarios_de_teste_loja_renner/issues"
+  },
+  "homepage": "https://github.com/Azzi77/cenarios_de_teste_loja_renner#readme",
+  "devDependencies": {
+    "cypress": "^12.3.0"
+  }
+}
