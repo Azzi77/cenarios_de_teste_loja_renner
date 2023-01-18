@@ -1,5 +1,5 @@
-##Projeto em construção
+## Projeto em construção
 
 
 # O objetivo desse projeto e treinar a escrita de teste para e-Commerce
-npm
+# E automatizar os cenários usando o Cypress
